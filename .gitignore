@@ -1,0 +1,5 @@
+.idea
+DistantionCalculator.iml
+out
+*.jar
+*.war
